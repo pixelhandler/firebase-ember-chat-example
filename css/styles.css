@@ -1,0 +1,10 @@
+button {
+  width: 15%;
+  font-size: 24px;
+}
+#nameInput {
+  width: 20%;
+}
+#messageInput {
+  width: 60%;
+}
